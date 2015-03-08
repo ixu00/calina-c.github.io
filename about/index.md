@@ -10,8 +10,11 @@ Călina CENAN
 ---
 Developer la <a href="http://pitechplus.com" target="_blank">PITECH+PLUS</a>
 
-## Interese:
+## Interese academice:
 
 * Data mining, proceduri de extracție nesupervizată a informațiilor
 * Tehnici de programare orientate pe obiect
 * Construcție de ontologii
+
+## Lucrarea de licență
+Dincolo de taxonomii: Aplicarea regulilor de procesare a limbajului natural pentru construcția automată de ontologii din texte nesupervizate.
