@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Tehnici de programare - Călina Cenan
+title: Programming with Călina
 locale: en_US
-description: Acest site se adresează studenților UTCN Calculatoare. Se recomandă consumul responsabil.
+description: Acest site se adresează studenților UTCN Calculatoare și altor pasionați de IT. Se recomandă consumul responsabil. // This website is dedicated to TUCN Computer Science students and other IT aficionados.
 logo: site-logo.png
 search: true
 url: http://calina-c.github.io

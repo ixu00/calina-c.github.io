@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title: Despre mine
+- title: Despre mine // About
   url: /about/
 
 - title: Blog
   url: /blog/
 
-- title: Note
+- title: Note // Grades
   url: https://docs.google.com/spreadsheets/d/1B4wsyK5c7kKGrMuwFk243aSMhTw8JPlb7mk9YDfHvmQ/edit?usp=sharing
 
 - title: Search
