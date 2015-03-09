@@ -11,14 +11,17 @@ Călina CENAN
 
 Developer la <a href="http://pitechplus.com" target="_blank">PITECH+PLUS</a>
 
-## Interese academice:
+#### Interese academice:
 
 * Data mining, proceduri de extracție nesupervizată a informațiilor
 * Tehnici de programare orientate pe obiect
 * Construcție de ontologii
 
-## Lucrarea de licență
+#### Lucrarea de licență
 Dincolo de taxonomii: Aplicarea regulilor de procesare a limbajului natural pentru construcția automată de ontologii din texte nesupervizate.
+
+#### Tehnologii
+PHP/Symfony2, Python/Django, JavaScript, SQL, REST, LaTeX, Linux, LISP, Scala, OWL API etc.
 
 ***
 ***
@@ -28,11 +31,14 @@ Dincolo de taxonomii: Aplicarea regulilor de procesare a limbajului natural pent
 
 Developer at <a href="http://pitechplus.com" target="_blank">PITECH+PLUS</a>
 
-## Academic interests:
+#### Academic interests:
 
 * Data mining, unsupervised information extraction procedures
 * Object-oriented programming techniques
 * Ontology building
 
-## License Thesis
+#### License Thesis
 Beyond Taxonomies: Applying natural language processing rules for automatic ontology building from unsupervised texts.
+
+#### Technologies
+PHP/Symfony2, Python/Django, JavaScript, SQL, REST, LaTeX, Linux, LISP, Scala, OWL API etc.
