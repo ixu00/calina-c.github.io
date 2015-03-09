@@ -18,6 +18,9 @@ Ideea aici este să observăm că Monomul în sine este doar un caz particular d
 ## Compoziția și delegarea - prin patternul Strategy
 [Strategy][strategy] este un pattern care ne permite să delegăm rezolvarea unor probleme unor obiecte separate, pentru a păstra caracteristicile de unică responsabilitate ale unei clase. Aceasta înseamnă că o clasă `Polinome` păstrează doar informațiile legate de operațiile de construcție, adunare/scădere, dar nu și operațiile complexe pentru rezolvare (Se presupune că operațiile sunt mai complicate decât implementarea mea rudimentară).
 
+## Erată
+O greșeală a fost strecurată intenționat. Se oferă 0,5p. bonus pentru tema 1 studentului care descoperă primul această greșeală. (Valabil o dată / semigrupă, în data de 9 martie 2015.)
+
 ## Codul folosit
 {% highlight python %}
 class Polynomial:
